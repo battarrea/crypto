@@ -1017,7 +1017,7 @@ select::-ms-expand {
 		-webkit-box-direction: normal;
 		    -ms-flex-direction: column;
 		        flex-direction: column;
-		background-color: rgba(13, 13, 43, 0.97);
+		background-color: rgba(13, 13, 43, 1);
 		overflow: auto;
 		-webkit-transition: all 0.5s ease-in-out;
 		-o-transition: all 0.5s ease-in-out;
